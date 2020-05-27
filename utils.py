@@ -4,6 +4,7 @@ from scipy.interpolate import interp1d
 import numpy as np
 import matplotlib.pyplot as plt
 import os
+from numpy import pi
 
 DATABASE = './data'
 
